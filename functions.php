@@ -9,7 +9,7 @@ use Timber\Timber;
 // Importa le dipendenze installate con Composer.
 require_once __DIR__ . "/vendor/autoload.php";
 
-require_once __DIR__ . "/src/StarterSite.php";
+require_once __DIR__ . "/includes/theme-timber.php";
 
 // Inizializza Timber
 Timber::init();
