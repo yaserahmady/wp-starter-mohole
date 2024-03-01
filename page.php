@@ -1,6 +1,6 @@
 <?php
 /**
- * page.php si occupa di visualizzare una una singola page
+ * page.php si occupa di visualizzare una singola page
  * cioè un post con post_type uguale a "page".
  *
  * Il template da renderizzare è il primo file `.twig`
